@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\OneDrive - mail.ecust.edu.cn\华东理工大学攻略共享计划\数学系\专业选修\大3上_计算机网络\实验报告\找相同\network_random\network_random\Source.cpp(102,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+  network_random.vcxproj -> D:\OneDrive - mail.ecust.edu.cn\华东理工大学攻略共享计划\数学系\专业选修\大3上_计算机网络\实验报告\找相同\network_random\Debug\network_random.exe
